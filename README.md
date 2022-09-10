@@ -1,3 +1,5 @@
 # Hola-mundo
 
-Tarea Medologia 2022
+Mi primer repositorio
+
+Volviendo a recordar Github
